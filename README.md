@@ -5,4 +5,4 @@ No próprio escopo vemos o avanço de aprendizado da rede a partir de cada époc
 
 ## Resultado
 
-![img1](./Images/accuracy.png)
+![img1](./Images/accuracy.PNG)
